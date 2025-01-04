@@ -1,0 +1,648 @@
+{
+  "biology-9th": {
+    "CHAP 1 Introduction to Biology": {
+      "mcq": [
+        {
+          "id": 1,
+          "type": "mcq",
+          "english": "What is the basic unit of life?",
+          "urdu": "زندگی کی بنیادی اکائی کیا ہے؟",
+          "options": [
+            { "english": "Cell", "urdu": "سیل", "value": "A" },
+            { "english": "Atom", "urdu": "ایٹم", "value": "B" },
+            { "english": "Molecule", "urdu": "مالیکیول", "value": "C" },
+            { "english": "Organ", "urdu": "اعضاء", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 2,
+          "type": "mcq",
+          "english": "Which branch of biology deals with the study of cells?",
+          "urdu": "حیاتیات کی کون سی شاخ خلیات کے مطالعہ سے متعلق ہے؟",
+          "options": [
+            { "english": "Cytology", "urdu": "سائٹولوجی", "value": "A" },
+            { "english": "Ecology", "urdu": "ماحولیات", "value": "B" },
+            { "english": "Genetics", "urdu": "جینیات", "value": "C" },
+            { "english": "Physiology", "urdu": "فزیالوجی", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 3,
+          "type": "mcq",
+          "english": "What is the study of living organisms and their interactions with their environment called?",
+          "urdu": "زندہ جاندار اور ان کے ماحول کے ساتھ تعامل کا مطالعہ کیا کہلاتا ہے؟",
+          "options": [
+            { "english": "Biology", "urdu": "حیاتیات", "value": "A" },
+            { "english": "Chemistry", "urdu": "کیمسٹری", "value": "B" },
+            { "english": "Physics", "urdu": "فزکس", "value": "C" },
+            { "english": "Geology", "urdu": "جیالوجی", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 4,
+          "type": "mcq",
+          "english": "Which instrument is used to observe microscopic organisms?",
+          "urdu": "خوردبینی جانداروں کو دیکھنے کے لیے کون سا آلہ استعمال ہوتا ہے؟",
+          "options": [
+            { "english": "Microscope", "urdu": "مائیکروسکوپ", "value": "A" },
+            { "english": "Telescope", "urdu": "ٹیلی سکوپ", "value": "B" },
+            { "english": "Stethoscope", "urdu": "سٹیتھوسکوپ", "value": "C" },
+            { "english": "Binoculars", "urdu": "دوربین", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 5,
+          "type": "mcq",
+          "english": "Who is known as the father of Biology?",
+          "urdu": "حیاتیات کا باپ کسے کہا جاتا ہے؟",
+          "options": [
+            { "english": "Aristotle", "urdu": "ارسطو", "value": "A" },
+            { "english": "Darwin", "urdu": "ڈارون", "value": "B" },
+            { "english": "Mendel", "urdu": "مینڈل", "value": "C" },
+            { "english": "Pasteur", "urdu": "پاسچر", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 6,
+          "type": "mcq",
+          "english": "Which of these is NOT a characteristic of living organisms?",
+          "urdu": "ان میں سے کون سی زندہ مخلوق کی خصوصیت نہیں ہے؟",
+          "options": [
+            { "english": "Growth", "urdu": "نمو", "value": "A" },
+            { "english": "Rusting", "urdu": "زنگ آلودگی", "value": "B" },
+            { "english": "Reproduction", "urdu": "تولید", "value": "C" },
+            { "english": "Movement", "urdu": "حرکت", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "B",
+          "marks": 1
+        },
+        {
+          "id": 7,
+          "type": "mcq",
+          "english": "The study of plant life is called:",
+          "urdu": "پودوں کی زندگی کا مطالعہ کہلاتا ہے:",
+          "options": [
+            { "english": "Botany", "urdu": "بوٹنی", "value": "A" },
+            { "english": "Zoology", "urdu": "زولوجی", "value": "B" },
+            { "english": "Ecology", "urdu": "ایکولوجی", "value": "C" },
+            { "english": "Anatomy", "urdu": "اناٹومی", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 8,
+          "type": "mcq",
+          "english": "What is the smallest functional unit of life?",
+          "urdu": "زندگی کی سب سے چھوٹی فعال اکائی کیا ہے؟",
+          "options": [
+            { "english": "Cell", "urdu": "خلیہ", "value": "A" },
+            { "english": "Tissue", "urdu": "ٹشو", "value": "B" },
+            { "english": "Organ", "urdu": "عضو", "value": "C" },
+            { "english": "Molecule", "urdu": "مالیکیول", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 9,
+          "type": "mcq",
+          "english": "Which branch of biology studies the classification of living organisms?",
+          "urdu": "حیاتیات کی کون سی شاخ جانداروں کی درجہ بندی کا مطالعہ کرتی ہے؟",
+          "options": [
+            { "english": "Taxonomy", "urdu": "ٹیکسونومی", "value": "A" },
+            { "english": "Physiology", "urdu": "فزیالوجی", "value": "B" },
+            { "english": "Anatomy", "urdu": "اناٹومی", "value": "C" },
+            { "english": "Ecology", "urdu": "ایکولوجی", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 10,
+          "type": "mcq",
+          "english": "The process by which plants make their own food is called:",
+          "urdu": "وہ عمل جس کے ذریعے پودے اپنی غذا خود بناتے ہیں کہلاتا ہے:",
+          "options": [
+            { "english": "Photosynthesis", "urdu": "ضیائی تالیف", "value": "A" },
+            { "english": "Respiration", "urdu": "تنفس", "value": "B" },
+            { "english": "Digestion", "urdu": "ہضم", "value": "C" },
+            { "english": "Absorption", "urdu": "جذب", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 11,
+          "type": "mcq",
+          "english": "The study of heredity and variation is called:",
+          "urdu": "وراثت اور تغیر کا مطالعہ کہلاتا ہے:",
+          "options": [
+            { "english": "Genetics", "urdu": "جینیات", "value": "A" },
+            { "english": "Evolution", "urdu": "ارتقاء", "value": "B" },
+            { "english": "Embryology", "urdu": "نشوونما", "value": "C" },
+            { "english": "Biotechnology", "urdu": "حیاتیاتی ٹکنالوجی", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 12,
+          "type": "mcq",
+          "english": "Which of these is a unicellular organism?",
+          "urdu": "ان میں سے کون سا یک خلوی جاندار ہے؟",
+          "options": [
+            { "english": "Amoeba", "urdu": "امیبا", "value": "A" },
+            { "english": "Fish", "urdu": "مچھلی", "value": "B" },
+            { "english": "Frog", "urdu": "مینڈک", "value": "C" },
+            { "english": "Bird", "urdu": "پرندہ", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        },
+        {
+          "id": 13,
+          "type": "mcq",
+          "english": "The powerhouse of the cell is called:",
+          "urdu": "خلیے کا پاور ہاؤس کہلاتا ہے:",
+          "options": [
+            { "english": "Mitochondria", "urdu": "مائٹوکانڈریا", "value": "A" },
+            { "english": "Nucleus", "urdu": "نیوکلیس", "value": "B" },
+            { "english": "Chloroplast", "urdu": "کلوروپلاسٹ", "value": "C" },
+            { "english": "Ribosome", "urdu": "رائبوسوم", "value": "D" }
+          ],
+          "chapter": "CHAP 1 Introduction to Biology",
+          "correct": "A",
+          "marks": 1
+        }
+      ],
+      "short": [
+        {
+          "id": 101,
+          "type": "short",
+          "english": "Define Biology and explain its major branches.",
+          "urdu": "حیاتیات کی تعریف کریں اور اس کی اہم شاخوں کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Biology is the study of living organisms. Major branches include Zoology (study of animals), Botany (study of plants), and Microbiology (study of microorganisms).",
+            "urdu": "حیاتیات زندہ مخلوق کا مطالعہ ہے۔ اہم شاخوں میں زولوجی (جانوروں کا مطالعہ)، بوٹنی (پودوں کا مطالعہ)، اور مائیکروبایولوجی (خوردبینی جاندار کا مطالعہ) شامل ہیں۔"
+          }
+        },
+        {
+          "id": 102,
+          "type": "short",
+          "english": "What is the importance of biology in medicine?",
+          "urdu": "طب میں حیاتیات کی کیا اہمیت ہے؟",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Biology is crucial in medicine as it helps understand human anatomy, diseases, and treatments. It forms the basis for medical research and drug development.",
+            "urdu": "حیاتیات طب میں اہم ہے کیونکہ یہ انسانی جسم، بیماریوں اور علاج کو سمجھنے میں مدد کرتی ہے۔ یہ طبی تحقیق اور ادویات کی تیاری کی بنیاد ہے۔"
+          }
+        },
+        {
+          "id": 103,
+          "type": "short",
+          "english": "Explain the difference between prokaryotic and eukaryotic cells.",
+          "urdu": "پروکیریوٹک اور یوکیریوٹک خلیات کے درمیان فرق کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Prokaryotic cells lack a true nucleus and membrane-bound organelles, while eukaryotic cells have a true nucleus and membrane-bound organelles.",
+            "urdu": "پروکیریوٹک خلیات میں حقیقی نیوکلیس اور جھلی سے محدود آرگنیلز نہیں ہوتے، جبکہ یوکیریوٹک خلیات میں حقیقی نیوکلیس اور جھلی سے محدود آرگنیلز ہوتے ہیں۔"
+          }
+        },
+        {
+          "id": 104,
+          "type": "short",
+          "english": "What is the role of DNA in living organisms?",
+          "urdu": "زندہ مخلوق میں ڈی این اے کا کیا کردار ہے؟",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "DNA stores genetic information and controls inheritance of traits. It provides instructions for protein synthesis and cellular functions.",
+            "urdu": "ڈی این اے جینیاتی معلومات کو محفوظ کرتا ہے اور خصوصیات کی وراثت کو کنٹرول کرتا ہے۔ یہ پروٹین کی تخلیق اور خلیاتی افعال کے لیے ہدایات فراہم کرتا ہے۔"
+          }
+        },
+        {
+          "id": 105,
+          "type": "short",
+          "english": "Explain the importance of cell membrane in living cells.",
+          "urdu": "زندہ خلیوں میں خلیاتی جھلی کی اہمیت کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "The cell membrane controls what enters and exits the cell, maintains cell structure, and helps in cell communication. It is selectively permeable and essential for cell survival.",
+            "urdu": "خلیاتی جھلی خلیے میں داخل اور خارج ہونے والے مواد کو کنٹرول کرتی ہے، خلیے کی ساخت کو برقرار رکھتی ہے، اور خلیاتی مواصلات میں مدد کرتی ہے۔ یہ انتخابی طور پر تراوش پذیر ہے اور خلیے کی بقا کے لیے ضروری ہے۔"
+          }
+        },
+        {
+          "id": 106,
+          "type": "short",
+          "english": "What is the role of enzymes in biological processes?",
+          "urdu": "حیاتیاتی عمل میں انزائمز کا کیا کردار ہے؟",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Enzymes are biological catalysts that speed up chemical reactions in living organisms. They help in digestion, metabolism, and other vital processes without being consumed themselves.",
+            "urdu": "انزائمز حیاتیاتی کیٹالسٹ ہیں جو زندہ مخلوق میں کیمیائی رد عمل کو تیز کرتے ہیں۔ یہ ہضم، میٹابولزم اور دیگر اہم عمل میں مدد کرتے ہیں بغیر خود استعمال ہوئے۔"
+          }
+        },
+        {
+          "id": 107,
+          "type": "short",
+          "english": "Describe the process of osmosis and its importance.",
+          "urdu": "آسموسس کے عمل اور اس کی اہمیت کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Osmosis is the movement of water molecules across a semi-permeable membrane from higher to lower concentration. It is vital for water balance in cells and nutrient absorption.",
+            "urdu": "آسموسس نیم تراوش پذیر جھلی کے ذریعے پانی کے مالیکیولز کی زیادہ کثافت سے کم کثافت کی طرف منتقلی ہے۔ یہ خلیوں میں پانی کے توازن اور غذائی اجزاء کے جذب کے لیے ضروری ہے۔"
+          }
+        },
+        {
+          "id": 108,
+          "type": "short",
+          "english": "What are chromosomes and their significance?",
+          "urdu": "کروموسومز کیا ہیں اور ان کی کیا اہمیت ہے؟",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Chromosomes are thread-like structures containing DNA and proteins. They carry genetic information, control inheritance, and determine physical characteristics of organisms.",
+            "urdu": "کروموسومز دھاگے نما ساخت ہیں جن میں ڈی این اے اور پروٹین ہوتے ہیں۔ یہ جینیاتی معلومات لے کر چلتے ہیں، وراثت کو کنٹرول کرتے ہیں، اور جانداروں کی جسمانی خصوصیات کا تعین کرتے ہیں۔"
+          }
+        },
+        {
+          "id": 109,
+          "type": "short",
+          "english": "Explain the difference between autotrophs and heterotrophs.",
+          "urdu": "خود غذا سازوں اور دیگر غذا سازوں میں فرق کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Autotrophs make their own food through photosynthesis (like plants), while heterotrophs depend on other organisms for food (like animals and fungi).",
+            "urdu": "خود غذا ساز ضیائی تالیف کے ذریعے اپنی غذا خود بناتے ہیں (جیسے پودے)، جبکہ دیگر غذا ساز غذا کے لیے دوسرے جانداروں پر منحصر ہوتے ہیں (جیسے جانور اور فنگس)۔"
+          }
+        },
+        {
+          "id": 110,
+          "type": "short",
+          "english": "What is the importance of classification in biology?",
+          "urdu": "حیاتیات میں درجہ بندی کی کیا اہمیت ہے؟",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Classification helps organize living things into groups, makes their study easier, shows relationships between organisms, and helps understand biodiversity.",
+            "urdu": "درجہ بندی زندہ چیزوں کو گروپوں میں منظم کرنے میں مدد کرتی ہے، ان کے مطالعے کو آسان بناتی ہے، جانداروں کے درمیان تعلقات دکھاتی ہے، اور حیاتیاتی تنوع کو سمجھنے میں مدد کرتی ہے۔"
+          }
+        },
+        {
+          "id": 111,
+          "type": "short",
+          "english": "Describe the importance of microscopes in biological research.",
+          "urdu": "حیاتیاتی تحقیق میں خوردبین کی اہمیت بیان کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 3,
+          "answer": {
+            "english": "Microscopes allow scientists to study cells, microorganisms, and cellular processes. They are essential for understanding cell structure, disease diagnosis, and biological research.",
+            "urdu": "خوردبین سائنسدانوں کو خلیات، خوردبینی جاندار، اور خلیاتی عمل کا مطالعہ کرنے کی اجازت دیتی ہے۔ یہ خلیاتی ساخت، بیماریوں کی تشخیص، اور حیاتیاتی تحقیق کو سمجھنے کے لیے ضروری ہے۔"
+          }
+        }
+      ],
+      "long": [
+        {
+          "id": 201,
+          "type": "long",
+          "english": "Describe the scientific method and its importance in biological research.",
+          "urdu": "سائنسی طریقہ کار اور حیاتیاتی تحقیق میں اس کی اہمیت کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "The scientific method is a systematic approach to investigating phenomena and acquiring new knowledge. It involves observation, hypothesis formation, experimentation, data analysis, and conclusion drawing.",
+            "urdu": "سائنسی طریقہ کار مظاہر کی تحقیق اور نئے علم کے حصول کا ایک منظم طریقہ ہے۔ اس میں مشاہدہ، مفروضہ سازی، تجربہ، ڈیٹا تجزیہ، اور نتیجہ اخذ کرنا شامل ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Definition of scientific method",
+              "Steps involved in scientific method",
+              "Importance in biological research",
+              "Examples of scientific method in biology",
+              "Applications in modern research"
+            ],
+            "urdu": [
+              "سائنسی طریقہ کار کی تعریف",
+              "سائنسی طریقہ کار کے مراحل",
+              "حیاتیاتی تحقیق میں اہمیت",
+              "حیاتیات میں سائنسی طریقہ کار کی مثالیں",
+              "جدید تحقیق میں استعمال"
+            ]
+          }
+        },
+        {
+          "id": 202,
+          "type": "long",
+          "english": "Explain the relationship between biology and other sciences.",
+          "urdu": "حیاتیات اور دیگر سائنسوں کے درمیان تعلق کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biology is interconnected with other sciences like chemistry (biochemistry), physics (biophysics), and mathematics (biometrics). These connections help in understanding life processes at different levels.",
+            "urdu": "حیاتیات دیگر سائنسوں جیسے کیمسٹری (بایوکیمسٹری)، فزکس (بایوفزکس)، اور ریاضی (بایومیٹرکس) سے مربوط ہے۔ یہ روابط مختلف سطحوں پر زندگی کے عمل کو سمجھنے میں مدد کرتے ہیں۔"
+          },
+          "outline": {
+            "english": [
+              "Introduction to interdisciplinary nature",
+              "Connection with chemistry",
+              "Connection with physics",
+              "Connection with mathematics",
+              "Modern applications"
+            ],
+            "urdu": [
+              "بین الضابطہ نوعیت کا تعارف",
+              "کیمسٹری سے تعلق",
+              "فزکس سے تعلق",
+              "ریاضی سے تعلق",
+              "جدید استعمال"
+            ]
+          }
+        },
+        {
+          "id": 203,
+          "type": "long",
+          "english": "Discuss the importance of biodiversity and its conservation.",
+          "urdu": "حیاتیاتی تنوع کی اہمیت اور اس کے تحفظ پر بحث کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biodiversity refers to the variety of life forms on Earth. It is crucial for maintaining ecological balance and providing resources for human survival.",
+            "urdu": "حیاتیاتی تنوع زمین پر زندگی کی اقسام کی تنوع کو کہتے ہیں۔ یہ ماحولیاتی توازن برقرار رکھنے اور انسانی بقا کے لیے وسائل فراہم کرنے کے لیے انتہائی اہم ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Definition of biodiversity",
+              "Types of biodiversity",
+              "Importance of biodiversity",
+              "Threats to biodiversity",
+              "Conservation methods"
+            ],
+            "urdu": [
+              "حیاتیاتی تنوع کی تعریف",
+              "حیاتیاتی تنوع کی اقسام",
+              "حیاتیاتی تنوع کی اہمیت",
+              "حیاتیاتی تنوع کو خطرات",
+              "تحفظ کے طریقے"
+            ]
+          }
+        },
+        {
+          "id": 204,
+          "type": "long",
+          "english": "Explain the process of cellular respiration and its importance in living organisms.",
+          "urdu": "خلیاتی تنفس کے عمل اور زندہ مخلوق میں اس کی اہمیت کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Cellular respiration is the process by which cells break down glucose to produce energy in the form of ATP. This process is essential for all life functions.",
+            "urdu": "خلیاتی تنفس وہ عمل ہے جس کے ذریعے خلیے گلوکوز کو توڑ کر ATP کی شکل میں توانائی پیدا کرتے ہیں۔ یہ عمل تمام حیاتی افعال کے لیے ضروری ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Definition of cellular respiration",
+              "Steps of cellular respiration",
+              "Role of mitochondria",
+              "Energy production",
+              "Importance in living organisms"
+            ],
+            "urdu": [
+              "خلیاتی تنفس کی تعریف",
+              "خلیاتی تنفس کے مراحل",
+              "مائٹوکونڈریا کا کردار",
+              "توانائی کی پیداوار",
+              "زندہ مخلوق میں اہمیت"
+            ]
+          }
+        },
+        {
+          "id": 205,
+          "type": "long",
+          "english": "Explain the levels of biological organization from molecules to organisms.",
+          "urdu": "مالیکیولز سے لے کر جانداروں تک حیاتیاتی تنظیم کی سطحوں کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biological organization progresses from simple molecules to complex organisms through various hierarchical levels. Each level builds upon the previous one to create more complex structures and functions.",
+            "urdu": "حیاتیاتی تنظیم سادہ مالیکیولز سے پیچیدہ جانداروں تک مختلف درجہ بندی سطحوں کے ذریعے ترقی کرتی ہے۔ ہر سطح پچھلی سطح پر تعمیر کرتے ہوئے زیادہ پیچیدہ ساخت اور افعال بناتی ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Molecules and atoms",
+              "Organelles and cells",
+              "Tissues and organs",
+              "Organ systems",
+              "Organisms and populations"
+            ],
+            "urdu": [
+              "مالیکیولز اور ایٹم",
+              "آرگنیلز اور خلیات",
+              "ٹشوز اور اعضاء",
+              "نظام اعضاء",
+              "جاندار اور آبادیاں"
+            ]
+          }
+        },
+        {
+          "id": 206,
+          "type": "long",
+          "english": "Discuss the major branches of biology and their significance in modern science.",
+          "urdu": "حیاتیات کی اہم شاخوں اور جدید سائنس میں ان کی اہمیت پر بحث کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biology has numerous specialized branches that study different aspects of life. Each branch contributes to our understanding of living organisms and their interactions.",
+            "urdu": "حیاتیات کی متعدد خصوصی شاخیں ہیں جو زندگی کے مختلف پہلوؤں کا مطالعہ کرتی ہیں۔ ہر شاخ زندہ جانداروں اور ان کے تعلقات کو سمجھنے میں مدد کرتی ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Zoology and Botany",
+              "Microbiology and Genetics",
+              "Ecology and Evolution",
+              "Molecular Biology",
+              "Applications in modern science"
+            ],
+            "urdu": [
+              "زولوجی اور بوٹنی",
+              "مائکروبایولوجی اور جینیات",
+              "ماحولیات اور ارتقاء",
+              "مالیکیولر بایولوجی",
+              "جدید سائنس میں استعمال"
+            ]
+          }
+        },
+        {
+          "id": 207,
+          "type": "long",
+          "english": "Explain the importance of biology in medicine and healthcare.",
+          "urdu": "طب اور صحت کی دیکھ بھال میں حیاتیات کی اہمیت کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biology plays a crucial role in medicine and healthcare, from understanding diseases to developing treatments. It forms the foundation for medical research and advancement.",
+            "urdu": "حیاتیات طب اور صحت کی دیکھ بھال میں اہم کردار ادا کرتی ہے، بیماریوں کو سمجھنے سے لے کر علاج تیار کرنے تک۔ یہ طبی تحقیق اور ترقی کی بنیاد ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Understanding human anatomy",
+              "Disease diagnosis and treatment",
+              "Drug development",
+              "Genetic therapy",
+              "Preventive medicine"
+            ],
+            "urdu": [
+              "انسانی جسم کی تفہیم",
+              "بیماریوں کی تشخیص اور علاج",
+              "ادویات کی تیاری",
+              "جینیاتی تھراپی",
+              "بچاؤ کی طب"
+            ]
+          }
+        },
+        {
+          "id": 208,
+          "type": "long",
+          "english": "Describe the scientific method and its application in biological research.",
+          "urdu": "سائنسی طریقہ کار اور حیاتیاتی تحقیق میں اس کے استعمال کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "The scientific method is a systematic approach to investigating phenomena in biology. It involves observation, hypothesis formation, experimentation, and conclusion drawing.",
+            "urdu": "سائنسی طریقہ کار حیاتیات میں مظاہر کی تحقیق کا ایک منظم طریقہ ہے۔ اس میں مشاہدہ، مفروضہ سازی، تجربہ، اور نتیجہ اخذ کرنا شامل ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Steps of scientific method",
+              "Importance in research",
+              "Data collection and analysis",
+              "Experimental design",
+              "Drawing conclusions"
+            ],
+            "urdu": [
+              "سائنسی طریقہ کار کے مراحل",
+              "تحقیق میں اہمیت",
+              "ڈیٹا جمع کرنا اور تجزیہ",
+              "تجرباتی ڈیزائن",
+              "نتائج اخذ کرنا"
+            ]
+          }
+        },
+        {
+          "id": 209,
+          "type": "long",
+          "english": "Discuss the role of biology in environmental conservation.",
+          "urdu": "ماحولیاتی تحفظ میں حیاتیات کے کردار پر بحث کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biology helps understand ecosystems, biodiversity, and environmental challenges. This knowledge is crucial for developing conservation strategies and sustainable practices.",
+            "urdu": "حیاتیات ماحولیاتی نظام، حیاتیاتی تنوع، اور ماحولیاتی چیلنجز کو سمجھنے میں مدد کرتی ہے۔ یہ علم تحفظ کی حکمت عملی اور پائیدار طریقوں کو فروغ دینے کے لیے ضروری ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Understanding ecosystems",
+              "Biodiversity conservation",
+              "Climate change impact",
+              "Species preservation",
+              "Sustainable practices"
+            ],
+            "urdu": [
+              "ماحولیاتی نظام کی تفہیم",
+              "حیاتیاتی تنوع کا تحفظ",
+              "موسمیاتی تبدیلی کا اثر",
+              "انواع کا تحفظ",
+              "پائیدار طریقے"
+            ]
+          }
+        },
+        {
+          "id": 210,
+          "type": "long",
+          "english": "Explain the relationship between structure and function in biological systems.",
+          "urdu": "حیاتیاتی نظام میں ساخت اور عمل کے درمیان تعلق کی وضاحت کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "In biological systems, structure and function are closely related. The specific structure of each component is adapted to perform its particular function efficiently.",
+            "urdu": "حیاتیاتی نظام میں ساخت اور عمل گہرے طور پر منسلک ہیں۔ ہر جزو کی مخصوص ساخت اس کے خاص عمل کو موثر طریقے سے انجام دینے کے لیے موزوں ہوتی ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Basic principles",
+              "Cellular organization",
+              "Organ systems",
+              "Adaptations",
+              "Evolution of structures"
+            ],
+            "urdu": [
+              "بنیادی اصول",
+              "خلیاتی تنظیم",
+              "نظام اعضاء",
+              "مطابقت",
+              "ساخت کا ارتقاء"
+            ]
+          }
+        },
+        {
+          "id": 211,
+          "type": "long",
+          "english": "Discuss the impact of biotechnology on modern society.",
+          "urdu": "جدید معاشرے پر حیاتیاتی ٹکنالوجی کے اثرات پر بحث کریں۔",
+          "chapter": "CHAP 1 Introduction to Biology",
+          "marks": 5,
+          "answer": {
+            "english": "Biotechnology has revolutionized medicine, agriculture, and industry. It offers solutions to many global challenges while raising important ethical considerations.",
+            "urdu": "حیاتیاتی ٹکنالوجی نے طب، زراعت، اور صنعت میں انقلاب برپا کیا ہے۔ یہ کئی عالمی چیلنجز کے حل پیش کرتی ہے جبکہ اہم اخلاقی سوالات بھی اٹھاتی ہے۔"
+          },
+          "outline": {
+            "english": [
+              "Medical applications",
+              "Agricultural improvements",
+              "Industrial uses",
+              "Ethical considerations",
+              "Future prospects"
+            ],
+            "urdu": [
+              "طبی استعمال",
+              "زرعی بہتری",
+              "صنعتی استعمال",
+              "اخلاقی ملاحظات",
+              "مستقبل کے امکانات"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+
